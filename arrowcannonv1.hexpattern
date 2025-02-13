@@ -30,7 +30,6 @@
             Jester's Gambit
             Nurse's Purification
 
-            // optional: extra damage to deal with wither armour
             Numerical Reflection: 10
             Additive Distillation
 
@@ -90,8 +89,6 @@
     Rotation Gambit II
     Zone Distillation: Non-Wisp
     Intersection Distillation
-
-    // show a message if no potential arrows are in range
     Gemini Decomposition
     Augur's Purification
     {
